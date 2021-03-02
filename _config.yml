@@ -59,8 +59,10 @@ plugins:
 
 author:
   name   : "Dr Anya Skatova"
-  avatar : "/assets/images/anya-photo.jpg"
-  bio    : "Anya bio goes here."
+  avatar : "/assets/images/anya-portrait.png"
+  bio    : "The Anya Lab at the University of Bristol Population Health Sciences
+  investigates behavioural and health outcomes by integrating
+  transactional data with longitudinal epidemiological datasets."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
