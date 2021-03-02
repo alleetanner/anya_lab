@@ -78,7 +78,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/altanner/anya_lab"
     - label: "CV"
-      icon: "fab fa-fw fa-file-pdf-o"
+      icon: "fab fa-fw fa-file-pdf"
       url: "PLACEHOLDER"
 #    - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
