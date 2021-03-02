@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /people/
+title: "People"
 ---
 
 Dr Alastair Tanner
