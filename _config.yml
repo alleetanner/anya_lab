@@ -61,33 +61,33 @@ author:
   name   : "Dr Anya Skatova"
   avatar : "/assets/images/anya-portrait.png"
   bio    : "The Anya Lab at the University of Bristol Population Health Sciences
-  investigates behavioural and health outcomes by integrating
-  transactional data with longitudinal epidemiological datasets."
+            investigates behavioural and health outcomes by integrating
+            transactional data with longitudinal epidemiological datasets."
   links:
-    - label: "Website"
+    - label: "University of Bristol"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.bristol.ac.uk/medical-school/research/population-health-sciences/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/anya_skatova"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/altanner/anya_lab"
+#    - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/anya_skatova"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/altanner/anya_lab"
+#    - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
 
 defaults:
   # _posts
