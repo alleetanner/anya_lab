@@ -66,7 +66,7 @@ author:
             transactional data with longitudinal epidemiological datasets."
   links:
     - label: "University of Bristol"
-      icon: "fa fa-fw fa-map-marker"
+      icon: "fa fa-fw fa-map-marker red-color"
       url: "https://www.bristol.ac.uk/medical-school/research/population-health-sciences/"
     - label: "Contact"
       icon: "fa fa-fw fa-envelope"
@@ -78,7 +78,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/altanner/anya_lab"
     - label: "CV"
-      icon: "fa fa-file-pdf-o"
+      icon: "fa fa-fw fa-file-pdf-o"
       url: "PLACEHOLDER"
 #    - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
