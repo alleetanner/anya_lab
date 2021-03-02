@@ -66,7 +66,7 @@ author:
             transactional data with longitudinal epidemiological datasets."
   links:
     - label: "University of Bristol"
-      icon: "fa fa-fw fa-map-marker-red"
+      icon: "fa fa-fw fa-map-marker"
       url: "https://www.bristol.ac.uk/medical-school/research/population-health-sciences/"
     - label: "Contact"
       icon: "fa fa-fw fa-envelope"
