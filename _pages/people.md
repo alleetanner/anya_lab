@@ -3,8 +3,7 @@ permalink: /people/
 title: "People"
 ---
 
-<img src="/assets/images/al-portrait.jpg" width="150" />
-
+![Alastair Tanner]({{ https://www.researchgate.net/profile/Alastair-Tanner-2 }}/assets/images/al-portrait.jpg)
 
 **Dr Alastair Tanner
 
