@@ -3,7 +3,7 @@ permalink: /people/
 title: "People"
 ---
 
-<img src="https://github.com/altanner/anya_lab/blob/master/assets/images/al-portrait.jpg" width="150" /></a> 
+<img src="https://github.com/altanner/anya_lab/blob/master/assets/images/al-portrait.jpg" width="150" />
 
 #### Dr Alastair Tanner
 
