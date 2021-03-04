@@ -3,7 +3,7 @@ permalink: /people/
 title: "People"
 ---
 
-<a href="https://www.mongodb.com/"><img src="assets/images/al-portrait.jpgg" width="150" /></a> 
+<a href="https://www.mongodb.com/"><img src="assets/images/al-portrait.jpg" width="150" /></a> 
 
 #### Dr Alastair Tanner
 
