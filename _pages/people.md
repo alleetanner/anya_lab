@@ -2,7 +2,8 @@
 permalink: /people/
 title: "People"
 ---
-![title](https://github.com/altanner/anya_lab/blob/master/assets/images/al-portrait.jpg)
+
+<a href="https://www.mongodb.com/"><img src="https://github.com/altanner/anya_lab/blob/master/assets/images/al-portrait.jpgg" width="150" /></a> 
 
 #### Dr Alastair Tanner
 
