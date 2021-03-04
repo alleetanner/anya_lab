@@ -3,7 +3,7 @@ permalink: /people/
 title: "People"
 ---
 
-![image-title-here](/assets/images/al-portrait.jpg){:class="img-responsive"}
+<img src="/assets/images/al-portrait.jpg" width="150" /></a> 
 
 #### Dr Alastair Tanner
 
